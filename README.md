@@ -5,7 +5,7 @@ This repository is a starter project for diploma students to practice using Git 
 ### 1. Clone the Repository
 Open your terminal and run the following command to download the project:
 ```bash
-git clone [https://github.com/YOUR_USERNAME/dna-toolkit-demo.git](https://github.com/YOUR_USERNAME/dna-toolkit-demo.git)
+git clone https://github.com/Dinayahia1718/dna-toolkit-demo.git
 cd dna-toolkit-demo
 ```
 
@@ -14,10 +14,10 @@ Using a virtual environment ensures that your bioinformatics tools and Python ve
 
 ```bash
 # Create a new environment named 'bio-env' with Python 3.10
-conda create --name bio-env python=3.10 -y
+conda create --name precision-ml python=3.11 -y
 
 # Activate the environment
-conda activate bio-env
+conda activate precision-ml
 ```
 
 ### 3. Install Requirements
