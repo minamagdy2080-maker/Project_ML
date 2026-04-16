@@ -1,3 +1,4 @@
+git add .
 --- Bioinformatics Repo Demo ---
 Sequence ID: NC_000017.11:c7687538-7687338
 Length:      213 bp
